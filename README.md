@@ -11,18 +11,15 @@ Welcome to my GitHub space. I build things that work by turning complex problems
 
 I live by KISS (Keep It Simple, Stupid) because the best code is the one you don't have to explain... much. 😉
 
-### `💪 Skills`
+**Skills**
 
-```
-🔐 Building secure, scalable, and fault-tolerant systems. If it crashes, it wasn't my code.
-🛠️ Backend wizardry with Python, Erlang, and PostgreSQL—because real developers love data.
-☁️ Infrastructure taming: Kubernetes, Terraform, Ansible...basically, Infrastructure as Code.
-🧪 QA craftsmanship: TDD, BDD, and breaking things so users don't have to.
-🔥 Frontend Sorcery with Svelte and SvelteKit.
-🧠 AI engineering in software applications, teaching machines to do my bidding.
-```
+- 🔥 Software Development
+- 🛠️ Backend Development
+- ☁️ DevOps
+- 🧪 QA
+- 🧠 AI
 
-### `📊 Open source projects`
+**Open source projects**
 
 - **psqache** - Fast python/asyncio cache client using PostgreSQL.
 - **codetrail** - Version control system inspired by Git. Come fight me!
@@ -35,8 +32,7 @@ Remember: In a world of complex solutions, be the one who finds the simple path.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+
 
 <!--
 **mochams/mochams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
