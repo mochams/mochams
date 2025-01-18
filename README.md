@@ -21,8 +21,9 @@ I live by KISS (Keep It Simple, Stupid) because the best code is the one you don
 
 **Open source projects**
 
-- **psqache** - Fast python/asyncio cache client using PostgreSQL.
-- **codetrail** - Version control system inspired by Git. Come fight me!
+- **erlgo** - Go library for Erlang port protocol communication.
+- **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
+- **erlembic** - Erlang database migrations tool.
 
 Remember: In a world of complex solutions, be the one who finds the simple path. 🤓
 
