@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mochama254@protonmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mochams)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mochama.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://adriano-mochama.vercel.app/)
 
 
 Welcome to my GitHub space. I build things that work by turning complex problems into simple, maintainable code.
@@ -13,11 +13,10 @@ I live by KISS (Keep It Simple, Stupid) because the best code is the one you don
 
 **Skills**
 
-- 🔥 Software Development
-- 🛠️ Backend Development
+- 🔥 Backend Development
 - ☁️ DevOps
-- 🧪 QA
-- 🧠 AI
+- 🛠️ Frontend Development
+- 🧪 Mobile Development (Soon...)
 
 **Open source projects**
 
@@ -27,13 +26,10 @@ I live by KISS (Keep It Simple, Stupid) because the best code is the one you don
 
 Remember: In a world of complex solutions, be the one who finds the simple path. 🤓
 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-
 
 <!--
 **mochams/mochams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
