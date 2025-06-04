@@ -9,24 +9,18 @@ Welcome to my GitHub space. I build things that work by turning complex problems
 
 "Simplicity is the ultimate sophistication" - Leonardo da Vinci
 
-I live by KISS (Keep It Simple, Stupid) because the best code is the one you don't have to explain... much. 😉
-
 **Skills**
 
-- 🔥 Backend Development
+- 🔥 Server-Side Development
 - ☁️ DevOps
-- 🛠️ Frontend Development
-- 🧪 Mobile Development (Soon...)
+- 🛠️ Web Development
 
 **Open source projects**
 
 - **erlgo** - Go library for Erlang port protocol communication.
 - **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
-- **erlembic** - Erlang database migrations tool.
 
-Remember: In a world of complex solutions, be the one who finds the simple path. 🤓
-
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/ANSI%20C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
