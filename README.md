@@ -20,10 +20,11 @@ Welcome to my GitHub space. I build things that work by turning complex problems
 - **erlgo** - Go library for Erlang port protocol communication.
 - **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
 
-[![C](https://img.shields.io/badge/ANSI%20C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.go.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
+[![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
 
 <!--
 **mochams/mochams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
