@@ -5,18 +5,14 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://adriano-mochama.vercel.app/)
 
 
-Welcome to my GitHub space. I build things that work by turning complex problems into simple, maintainable code.
+Welcome to my GitHub space.  
+I build things that work by turning complex problems into simple, maintainable code.
 
 "Simplicity is the ultimate sophistication" - Leonardo da Vinci
 
-**Skills**
-
-- 🔥 Server-Side Development
-- ☁️ DevOps
-- 🛠️ Web Development
-
 **Open source projects**
 
+- **goatte** - Go HTTP library for building web services 
 - **erlgo** - Go library for Erlang port protocol communication.
 - **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
 
