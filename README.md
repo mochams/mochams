@@ -12,7 +12,7 @@ I build things that work by turning complex problems into simple, maintainable c
 
 **Open source projects**
 
-- **gesql** - Go enhanced SQL builder
+- **esqlc** - Go enhanced SQL builder
 - **erlgo** - Go library for Erlang port protocol communication.
 - **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
 
