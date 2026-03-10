@@ -12,14 +12,12 @@ I build things that work by turning complex problems into simple, maintainable c
 
 **Open source projects**
 
-- **goatte** - Go HTTP library for building web services 
+- **gesql** - Go enhanced SQL builder
 - **erlgo** - Go library for Erlang port protocol communication.
 - **rebar3_go** - A rebar3 plugin that eases creating and building go ports in erlang projects.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://www.go.dev/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFF)](https://www.typescriptlang.org/)
 [![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)](https://www.erlang.org/)
 
 <!--
